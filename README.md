@@ -91,11 +91,11 @@ You can click the Preview link to take a look at your changes.
 ## 📄📜 Stats [Dynamic🚀]
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aniruddhapw&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhapw&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal,Problem-Solving-Techniques,micro-os&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&title_color=a956d1" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhapw&exclude_repo=Portfolio,HomePal,Problem-Solving-Techniques,micro-os&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&title_color=a956d1" />
 </p>
 
      
