@@ -49,12 +49,18 @@ You can click the Preview link to take a look at your changes.
  
 </details>
 </br>
-## 💼 Work GitHub Activity
+## 💼 Work Profile
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/aniruddha-wankhade">
-    <img src="https://github-readme-stats.vercel.app/api?username=aniruddha-wankhade&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777" />
+    <img src="https://img.shields.io/badge/Work%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>Professional GitHub account used for corporate contributions and private repositories.</i>
 </p>
 
 <table width="100%" >
